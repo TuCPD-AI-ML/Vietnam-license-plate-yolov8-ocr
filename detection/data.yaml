@@ -1,0 +1,4 @@
+train: C:/Users/TU/Desktop/Computer_Vision/Plate_Recognition/data/train/images 
+val: C:/Users/TU/Desktop/Computer_Vision/Plate_Recognition/data/valid/images 
+nc: 1
+names: ['plate']
